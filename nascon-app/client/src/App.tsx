@@ -1,5 +1,4 @@
 import { Routes, Route } from 'react-router-dom'
-import { useAuthStore } from './stores/authStore'
 import Layout from './components/Layout'
 import Home from './pages/Home'
 import Login from './pages/Login'
@@ -9,7 +8,6 @@ import Events from './pages/Events'
 import ProtectedRoute from './components/ProtectedRoute'
 
 function App() {
-  const { isAuthenticated } = useAuthStore()
 
   return (
     <div className="min-h-screen bg-gray-50">

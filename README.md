@@ -202,6 +202,11 @@ For support and questions:
 - [ ] Phase 5: AI Agents
 - [ ] Phase 6: Production Deployment
 
+## 🤝 Collaboration
+
+See CONTRIBUTING.md and COLLABORATION.md for branch strategy, commit conventions, and PR workflow. CI runs on PRs to develop/main.
+
+
 ---
 
 **NASCON Team** - Building the future of student conventions
